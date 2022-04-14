@@ -8,4 +8,4 @@
 
 There is no absence of gift, gift itself does not exist. What exists are hardworking people with a single goal in mind, ready to give up everything in order to reach their only final goal.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusgutierrez&langs_count=3&theme=gradient&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gutyerrez&langs_count=3&theme=gradient&layout=compact)
